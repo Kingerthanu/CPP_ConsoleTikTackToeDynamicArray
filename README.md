@@ -19,7 +19,7 @@ after the calculations are done and will ask if the players wish to restart, whi
 **The Breakdown:**
 
 
-<img src="https://github.com/Kingerthanu/CPP_ConsoleTikTackToeDynamicArray/assets/76754592/ff048acd-2577-49d5-b958-21e2e50ff7cf" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_ConsoleTikTackToeDynamicArray/assets/76754592/ff048acd-2577-49d5-b958-21e2e50ff7cf" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_ConsoleTikTackToeDynamicArray/assets/76754592/ff048acd-2577-49d5-b958-21e2e50ff7cf" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_ConsoleTikTackToeDynamicArray/assets/76754592/ff048acd-2577-49d5-b958-21e2e50ff7cf" alt="Cornstarch <3" width="55" height="49">
+<img src="https://github.com/Kingerthanu/CPP_ConsoleTikTackToeDynamicArray/assets/76754592/ff048acd-2577-49d5-b958-21e2e50ff7cf" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_ConsoleTikTackToeDynamicArray/assets/76754592/ff048acd-2577-49d5-b958-21e2e50ff7cf" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_ConsoleTikTackToeDynamicArray/assets/76754592/ff048acd-2577-49d5-b958-21e2e50ff7cf" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_ConsoleTikTackToeDynamicArray/assets/76754592/ff048acd-2577-49d5-b958-21e2e50ff7cf" alt="Cornstarch <3" width="55" height="49">
 
 
 ----------------------------------------------
