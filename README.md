@@ -18,6 +18,19 @@ after the calculations are done and will ask if the players wish to restart, whi
 
 **The Breakdown:**
 
+  Our Program Consists Of Working With The Terminal In C++ To Use User-Input To Create And Play A Dynamic Free-For-All Of User-Defined Size Local Game Of Tic-Tac-Toe.
+
+  On Startup Our Program Will Ask The User For Dimensions For Their Tic-Tac Board As Well As The Players' Icons.
+
+  The Board Will Be Represented As A 2D-Array Of Chars, Allowing Our Board Not Technically To Be Defined Under Its Own Class/Wrapper. Using Functions We Will Change The State Of This Dynamic Board To Write, Display, And Check For Winner. 
+
+  The Player Will Have Its Own Struct Holding Their Icon As Well As Player_Num (Used For Turn Number) And Their Total Win Count.
+
+  After These Requests, We Will Start Our Main Game Loop. In This We Will Ask Player 1 -> Player **x**  For Their Action During This Turn. To Win This, On The Dynamic-Sized Map You Must Cover Either A Diagonal, Vertical, Or Corner-To-Corner With Only Your Icon As In Normal Tic-Tac-Toe.
+
+  This Project Was Super Fun And Was Something I've Done Many Times But This Iteration Of The Game Was Really Refined And Fun To Make Even Though It Looks Quite Dainty With Its Terminal Output.
+
+  Using Exceptions As Well As Interesting Tactics For Input Santiziation Was Fun For Me To Do And Taught Me To Think More Defensively In My Programming Tactics On Some Cases Compared To Contract-Based Ways As Sometimes You Cant Trust The User Sadly :/
 
 <img src="https://github.com/Kingerthanu/CPP_ConsoleTikTackToeDynamicArray/assets/76754592/ff048acd-2577-49d5-b958-21e2e50ff7cf" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_ConsoleTikTackToeDynamicArray/assets/76754592/ff048acd-2577-49d5-b958-21e2e50ff7cf" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_ConsoleTikTackToeDynamicArray/assets/76754592/ff048acd-2577-49d5-b958-21e2e50ff7cf" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_ConsoleTikTackToeDynamicArray/assets/76754592/ff048acd-2577-49d5-b958-21e2e50ff7cf" alt="Cornstarch <3" width="55" height="49">
 
