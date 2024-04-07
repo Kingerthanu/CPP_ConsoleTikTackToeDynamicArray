@@ -37,6 +37,10 @@ after the calculations are done and will ask if the players wish to restart, whi
 
 ----------------------------------------------
 
+<img src="https://github.com/Kingerthanu/CPP_ConsoleTikTackToeDynamicArray/assets/76754592/b99d9f90-00e9-468f-ad0d-a2918a82a8f6" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_ConsoleTikTackToeDynamicArray/assets/76754592/b99d9f90-00e9-468f-ad0d-a2918a82a8f6" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_ConsoleTikTackToeDynamicArray/assets/76754592/b99d9f90-00e9-468f-ad0d-a2918a82a8f6" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_ConsoleTikTackToeDynamicArray/assets/76754592/b99d9f90-00e9-468f-ad0d-a2918a82a8f6" alt="Cornstarch <3" width="55" height="49">
+
+
+
 **Features:**
 
 ![2024-01-1023-10-06-ezgif com-video-to-gif-converter](https://github.com/Kingerthanu/CPP_ConsoleTikTackToeDynamicArray/assets/76754592/ab14778e-c29c-45ff-b706-e7bd26b7415a)
