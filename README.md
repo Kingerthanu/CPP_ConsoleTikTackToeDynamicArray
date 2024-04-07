@@ -12,4 +12,15 @@ player calls their spot (determineWinner). Also, the player will be able to dete
 which type of style of marker they wish to have (x,X,o,O, etc.). Game will declare winner in console
 after the calculations are done and will ask if the players wish to restart, which will then reloop the game loop. 
 
+----------------------------------------------
+<img src="https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/062b5dcb-16db-423a-b82c-f9137c8319e4" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/062b5dcb-16db-423a-b82c-f9137c8319e4" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/062b5dcb-16db-423a-b82c-f9137c8319e4" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/062b5dcb-16db-423a-b82c-f9137c8319e4" alt="Cornstarch <3" width="55" height="49">
+
+**The Breakdown:**
+
+
+
+----------------------------------------------
+
+**Features:**
+
 ![2024-01-1023-10-06-ezgif com-video-to-gif-converter](https://github.com/Kingerthanu/CPP_ConsoleTikTackToeDynamicArray/assets/76754592/ab14778e-c29c-45ff-b706-e7bd26b7415a)
