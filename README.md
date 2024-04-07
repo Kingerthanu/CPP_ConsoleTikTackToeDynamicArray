@@ -44,3 +44,7 @@ after the calculations are done and will ask if the players wish to restart, whi
 **Features:**
 
 ![2024-01-1023-10-06-ezgif com-video-to-gif-converter](https://github.com/Kingerthanu/CPP_ConsoleTikTackToeDynamicArray/assets/76754592/ab14778e-c29c-45ff-b706-e7bd26b7415a)
+
+
+
+<img src="https://github.com/Kingerthanu/CPP_ConsoleTikTackToeDynamicArray/assets/76754592/bc9dc1f2-e6ee-4613-9276-918157541b3e" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_ConsoleTikTackToeDynamicArray/assets/76754592/bc9dc1f2-e6ee-4613-9276-918157541b3e" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_ConsoleTikTackToeDynamicArray/assets/76754592/bc9dc1f2-e6ee-4613-9276-918157541b3e" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_ConsoleTikTackToeDynamicArray/assets/76754592/bc9dc1f2-e6ee-4613-9276-918157541b3e" alt="Cornstarch <3" width="55" height="49">
